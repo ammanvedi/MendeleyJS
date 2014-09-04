@@ -1,6 +1,6 @@
 {
   "name": "mendeleyjs",
-  "version": “0.0.2”,
+  "version": "0.0.2",
   "description": "A small module to mediate connections to the new mendeleyJS API",
   "main": "index.js",
   "scripts": {
