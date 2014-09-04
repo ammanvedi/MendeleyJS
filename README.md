@@ -27,7 +27,7 @@ var Mendeley = require('mendeleyjs');
 create an instance of the library
 
 ```javascript
-Mendeley.auth('670', '9N5Q9XupUZEpxuOI', function(msg) {
+Mendeley.auth('clientID', 'client secret', function(msg) {
     console.log(msg)
     Mendeley.search("science", function(data) {
         console.log(data);
