@@ -1,0 +1,29 @@
+{
+  "name": "mendeleyjs",
+  "version": “0.0.2”,
+  "description": "A small module to mediate connections to the new mendeleyJS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ammanvedi/MendeleyJS"
+  },
+  "keywords": [
+    "Mendeley",
+    "articles",
+    "research",
+    "search",
+    "JSTOR"
+  ],
+  "author": "Amman Vedi <amman.vedi@gmail.com> (http://www.ammanv.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ammanvedi/MendeleyJS/issues"
+  },
+  "homepage": "https://github.com/ammanvedi/MendeleyJS"
+}
